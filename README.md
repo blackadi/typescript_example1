@@ -28,7 +28,7 @@
 
 ## Running the sample
 
-- ```sh
+1. ```sh
    parcel index.html
   ```
-- Open a browser and navigate to the URL shown on your terminal, which should be similar to this `http://localhost:1234`
+2. Open a browser and navigate to the URL shown on your terminal, which should be similar to this `http://localhost:1234`
